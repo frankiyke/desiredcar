@@ -1,0 +1,30 @@
+body{
+	background-color:#f4f4f4;
+	color:#555;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	line-height:1.6em;
+	margin:0;
+}
+.login-box{
+			width:20%;
+			margin: auto;
+			overflow:hidden;
+}
+.container{
+			width:80%;
+			margin: auto;
+			overflow:hidden;
+}
+#main-header{
+	background-color:#fff;
+	color:#000;
+}
+#navbar{
+	background-color:#333;
+	color:#fff;
+}
+#navbar ul{
+	padding:#0;
+	list-style:none;
+}

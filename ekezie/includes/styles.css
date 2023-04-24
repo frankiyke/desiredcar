@@ -1,0 +1,29 @@
+body{
+	font-size: 14px;
+	margin:5;
+	padding:5;
+	background-color:#ff9;
+}
+
+td{
+	font-size: 13px;
+}
+tr{
+	font-size: 13px;
+}
+
+td input {
+	font-size: 11px;
+}
+td select {
+	font-size: 11px;
+}
+
+.wrapper{
+	font-size:1.2em;
+	padding:2em;
+	margin: 0 auto;
+	width: 910px;
+	height: 2000px;
+	background-color: white;
+}
